@@ -12,4 +12,5 @@ See [node-growl](https://github.com/visionmedia/node-growl) on how to setup Grow
 ## Usage
 
 When activated, plugin sends desktop notification each time when NodeBB is ready.
+
 Very useful when NodeBB started in watch mode
