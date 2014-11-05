@@ -1,0 +1,7 @@
+{
+    "id": "nodebb-plugin-dev-ready-notifier",
+    "name": "[devtool] NodeBB Ready Notifier",
+    "description": "Plugin sends desktop notification when NodeBB is ready",
+    "url": "https://github.com/unreadableusername/nodebb-plugin-dev-ready-notifier",
+    "library": "./index.js"
+}

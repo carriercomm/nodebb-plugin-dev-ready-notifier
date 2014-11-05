@@ -1,0 +1,30 @@
+{
+  "name": "nodebb-plugin-dev-ready-notifier",
+  "version": "0.0.1",
+  "description": "Plugin sends desktop notification when NodeBB is ready. Useful for NodeBB developers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unreadableusername/nodebb-plugin-dev-ready-notifier.git"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "nodebb ready",
+    "developer tool",
+    "developers",
+    "notifier"
+  ],
+  "author": "Oleksandr Pidlisnyi <oleksandr.pidlisnyi@gmail.com> (https://github.com/unreadableusername)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unreadableusername/nodebb-plugin-dev-ready-notifier/issues"
+  },
+  "homepage": "https://github.com/unreadableusername/nodebb-plugin-dev-ready-notifier",
+  "dependencies": {
+    "growl": "^1.8.1"
+  }
+}
