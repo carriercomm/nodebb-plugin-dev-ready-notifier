@@ -7,7 +7,7 @@ Plugin sends desktop notification when NodeBB is ready. Useful for NodeBB develo
 
 ```npm install nodebb-plugin-dev-ready-notifier```
 
-See [node-growl](https://github.com/visionmedia/node-growl) on how to setup Growl notifications for Mac/Linux/Windows.
+See [node-notifier](https://github.com/mikaelbr/node-notifier#requirements) for Mac/Linux/Windows requirements.
 
 ## Usage
 

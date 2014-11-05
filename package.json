@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-dev-ready-notifier",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Plugin sends desktop notification when NodeBB is ready. Useful for NodeBB developers.",
   "main": "index.js",
   "scripts": {
